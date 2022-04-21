@@ -19,7 +19,7 @@
 - 📫 How to reach me: souravkumarganguly@gmail.com
 - ⚡ Fun fact: Love to Watch anime, Playing Computer Games😄
 
-![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=techsouravganguly&show_icons=true&include_all_commits=true&theme=calm&count_private=true?count_private=true)
+![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=techsouravganguly&show_icons=true&include_all_commits=true&&theme=calm&count_private=true?count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techsouravganguly&layout=compact&theme=calm)](https://github.com/techsouravganguly/github-readme-stats)
 
