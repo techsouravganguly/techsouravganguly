@@ -14,10 +14,9 @@
 - 🔭 I’m currently working on combination of ML and Android
 - 🌱 I’m currently learning Mobile App devlopment
 - 👯 I’m looking to collaborate on any Open Source project
-- 🤔 I’m looking for help with Spring Framework and Product Owner field
 - 💬 Ask me about anything
 - 📫 How to reach me: souravkumarganguly@gmail.com
-- ⚡ Fun fact: Love to Watch anime, Playing Computer Games😄
+- ⚡ Fun fact: Love to Watch anime😄
 
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=techsouravganguly&show_icons=true&&include_all_commits=true&theme=calm&count_private=true?count_private=true)
 
